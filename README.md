@@ -1,6 +1,10 @@
 # html-css
  Curso de HTML5 e CSS3 do curso em video
 
+Melhores Resultados: <br>
+-> <a href="modulo01/desafios/d005" target="_blank">Desafio 05</a><br>
+-> <a href="modulo02/desafios/d010" target="_blank">Desafio 10</a><br>
+
 Links para os desafios: <br>
 -> <a href="modulo01/desafios/d001" target="_blank">Desafio 01</a><br>
 -> <a href="modulo01/desafios/d002" target="_blank">Desafio 02</a><br>

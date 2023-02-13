@@ -1,11 +1,11 @@
 @charset "UTF-8";
 
 :root {
-    --cor1: #78FFEF;
-    --cor2: #51DBCB;
-    --cor3: #278F83;
-    --cor4: #DB7C51;
-    --cor5: #8F3D18;
+    --cor1: #7287F2;
+    --cor2: #2A4BF0;
+    --cor3: #203ABD;
+    --cor4: #132370;
+    --cor5: #1b2346;
 }
 
 * {
@@ -18,24 +18,29 @@ body {
 }
 
 header {
-    background-image: linear-gradient(to top, var(--cor3), var(--cor1));
-    margin-bottom: 15px;
+    background-image: linear-gradient(to top, var(--cor4), var(--cor2));
     padding: 5px;
 }
 
 header h1 {
-    color: var(--cor5);
+    color: white;
     font-size: 2em;
+    text-shadow: 1px 2px 5px rgba(0, 0, 0, 0.158);
 }
 
 header h2 {
-    color: var(--cor4);
+    color: white;
+    text-shadow: 1px 2px 5px rgba(0, 0, 0, 0.356);
 }
 
 main {
-    max-width: 600px;
+    max-width: 800px;
     min-width: 290px;
-    margin: auto;
+    margin: 15px auto;
+    border-radius: 10px;
+    background-color: var(--cor4);
+    padding: 10px;
+    box-shadow: 1px 2px 6px rgba(0, 0, 0, 0.301);
 }
 
 main section {
@@ -45,4 +50,50 @@ main section {
 main section img {
     width: 200px;
     border-radius: 50%;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0);
+}
+
+main p{
+    text-align: justify;
+    text-indent: 30px;
+    color: white;
+    padding: 5px;
+    font-size: 1.1em;
+}
+
+main p strong {
+    color: var(--cor1);
+    text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.507);
+}
+
+main h2 {
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    text-decoration: underline;
+}
+
+main ul {
+    list-style-position: inside;
+    list-style: none;
+    margin: 10px;
+}
+
+main ul li {
+    color: white;
+}
+
+main ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main ul li a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+main ul img {
+    background-color: white;
+    border-radius: 8px;
 }
