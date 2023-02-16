@@ -5,6 +5,8 @@ Melhores Resultados: <br>
 -> <a href="modulo01/desafios/d005" target="_blank">Desafio 05</a><br>
 -> <a href="modulo02/desafios/d010" target="_blank">Desafio 10</a><br>
 -> <a href="modulo03/desafios/d012" target="_blank">Desafio 12</a><br>
+-> <a href="modulo04/desafios/d014" target="_blank">Desafio 14</a><br>
+-> <a href="modulo04/desafios/d015" target="_blank">Desafio 15</a><br>
 
 Links para os desafios: <br>
 -> <a href="modulo01/desafios/d001" target="_blank">Desafio 01</a><br>
@@ -18,4 +20,6 @@ Links para os desafios: <br>
 -> <a href="modulo01/desafios/d009" target="_blank">Desafio 09</a><br>
 -> <a href="modulo02/desafios/d010" target="_blank">Desafio 10</a><br>
 -> <a href="modulo02/desafios/d011" target="_blank">Desafio 11</a><br>
--> <a href="modulo03/desafios/d012" target="_blank">Desafio 12</a>
+-> <a href="modulo03/desafios/d012" target="_blank">Desafio 12</a><br>
+-> <a href="modulo04/desafios/d014" target="_blank">Desafio 14</a><br>
+-> <a href="modulo04/desafios/d015" target="_blank">Desafio 15</a><br>
