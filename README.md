@@ -21,5 +21,6 @@ Links para os desafios: <br>
 -> <a href="modulo02/desafios/d010" target="_blank">Desafio 10</a><br>
 -> <a href="modulo02/desafios/d011" target="_blank">Desafio 11</a><br>
 -> <a href="modulo03/desafios/d012" target="_blank">Desafio 12</a><br>
+-> <a href="modulo03/desafios/d013" target="_blank">Desafio 13</a><br>
 -> <a href="modulo04/desafios/d014" target="_blank">Desafio 14</a><br>
 -> <a href="modulo04/desafios/d015" target="_blank">Desafio 15</a><br>
